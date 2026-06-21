@@ -1,0 +1,10 @@
+package WEEK1.design_pattern_exercises.exercise5;
+
+class SMSNotifierDecorator extends NotifierDecorator {
+    public SMSNotifierDecorator(Notifier notifier) { super(notifier); }
+
+    public void send(String message) {
+        super.send(message);
+        System.out.println("Sending SMS: " + message);
+    }
+}
