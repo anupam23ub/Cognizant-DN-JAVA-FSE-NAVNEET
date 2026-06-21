@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="680794fd-850a-4c81-aa66-727cfb9010f7" name="Changes" comment="completed design and dsa exercises">
+      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_1_Control Structures/implement.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_2_Error Handling/implement.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_3_Stored Procedures/implement.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_4_Functions/implement.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_5_Triggers/implement.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_6_Cursor/implement.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_7_Packages/implement.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise1/InventoryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise1/InventoryManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise2/SearchSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise2/SearchSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise3/OrderSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise3/OrderSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise4/EmployeeSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise4/EmployeeSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise5/TaskList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise5/TaskList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise6/LibrarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise6/LibrarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise7/FinancialForecaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise7/FinancialForecaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise1/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise1/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise1/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise1/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise10/MVCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise10/MVCTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise10/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise10/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise10/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise10/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise10/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise10/StudentView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise11/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise11/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise11/CustomerRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise11/CustomerRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise11/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise11/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise11/DependencyInjectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise11/DependencyInjectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/DocumentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/DocumentFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/ExcelDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/ExcelDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/ExcelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/ExcelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/FactoryMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/FactoryMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/PdfDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/PdfDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/PdfFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/PdfFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/WordDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/WordDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/WordFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/WordFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise3/BuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise3/BuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise3/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise3/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise4/AdapterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise4/AdapterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise4/PaymentProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise4/PaymentProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise4/StripeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise4/StripeAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise4/StripeGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise4/StripeGateway.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/DecoratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/DecoratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/EmailNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/EmailNotifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/Notifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/NotifierDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/NotifierDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/SMSNotifierDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/SMSNotifierDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/SlackNotifierDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/SlackNotifierDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise6/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise6/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise6/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise6/ProxyImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise6/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise6/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise6/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise6/RealImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/MobileApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/MobileApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/ObserverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/ObserverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/StockMarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/StockMarket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/WebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/WebApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise8/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise8/CreditCardPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise8/PayPalPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise8/PayPalPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise8/PaymentContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise8/PaymentContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise8/PaymentStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise8/PaymentStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise8/StrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise8/StrategyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/CommandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/CommandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/LightOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/LightOffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/LightOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/RemoteControl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anupam23ub"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anupam23ub/Cognizant-DN-JAVA-FSE-NAVNEET",
+    "accountId": "f154b53d-a9e1-4fbc-b852-efc9a6f2aab8"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3FOMvO9EoPkQdQj7lzyPjYfLwzk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdapterTest.executor": "Run",
+    "Application.BuilderTest.executor": "Run",
+    "Application.CommandTest.executor": "Run",
+    "Application.DecoratorTest.executor": "Run",
+    "Application.DependencyInjectionTest.executor": "Run",
+    "Application.FactoryMethodTest.executor": "Run",
+    "Application.FinancialForecaster.executor": "Run",
+    "Application.LibrarySearch.executor": "Run",
+    "Application.MVCTest.executor": "Run",
+    "Application.ObserverTest.executor": "Run",
+    "Application.ProxyTest.executor": "Run",
+    "Application.SingletonTest.executor": "Run",
+    "Application.StrategyTest.executor": "Run",
+    "Application.TaskList.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/navneet/IdeaProjects/Cognizant-DN-JAVA-FSE-NAVNEET/src/WEEK1",
+    "onboarding.tips.debug.path": "/Users/navneet/IdeaProjects/Cognizant-DN-JAVA-FSE-NAVNEET/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/WEEK1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TaskList">
+    <configuration name="DependencyInjectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WEEK1.DesignPatterns.exercise11.DependencyInjectionTest" />
+      <module name="Cognizant-DN-JAVA-FSE-NAVNEET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WEEK1.DesignPatterns.exercise11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinancialForecaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WEEK1.AlgorithmsDS.exercise7.FinancialForecaster" />
+      <module name="Cognizant-DN-JAVA-FSE-NAVNEET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WEEK1.AlgorithmsDS.exercise7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibrarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WEEK1.AlgorithmsDS.exercise6.LibrarySearch" />
+      <module name="Cognizant-DN-JAVA-FSE-NAVNEET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WEEK1.AlgorithmsDS.exercise6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MVCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WEEK1.DesignPatterns.exercise10.MVCTest" />
+      <module name="Cognizant-DN-JAVA-FSE-NAVNEET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WEEK1.DesignPatterns.exercise10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WEEK1.AlgorithmsDS.exercise5.TaskList" />
+      <module name="Cognizant-DN-JAVA-FSE-NAVNEET" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WEEK1.AlgorithmsDS.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskList" />
+        <item itemvalue="Application.LibrarySearch" />
+        <item itemvalue="Application.FinancialForecaster" />
+        <item itemvalue="Application.DependencyInjectionTest" />
+        <item itemvalue="Application.MVCTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="680794fd-850a-4c81-aa66-727cfb9010f7" name="Changes" comment="" />
+      <created>1781941892493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781941892493</updated>
+    </task>
+    <task id="LOCAL-00001" summary="completed design and dsa exercises">
+      <option name="closed" value="true" />
+      <created>1782054504682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782054504682</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed design and dsa exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed design and dsa exercises" />
+  </component>
+</project>
