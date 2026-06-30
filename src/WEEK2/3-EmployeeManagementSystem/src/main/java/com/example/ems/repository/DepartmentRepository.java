@@ -1,0 +1,18 @@
+package com.example.ems.repository;
+
+import com.example.ems.entity.Department;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import java.util.Optional;
+
+/**
+ * DepartmentRepository.
+ *
+ * Exercise 3: extends JpaRepository + a derived query method.
+ */
+@Repository
+public interface DepartmentRepository extends JpaRepository<Department, Long> {
+
+    Optional<Department> findByName(String name);
+}

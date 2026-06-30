@@ -2,72 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="680794fd-850a-4c81-aa66-727cfb9010f7" name="Changes" comment="completed design and dsa exercises">
-      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_1_Control Structures/implement.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_2_Error Handling/implement.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_3_Stored Procedures/implement.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_4_Functions/implement.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_5_Triggers/implement.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_6_Cursor/implement.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK1/PL_SQL_Programming/Exercise_7_Packages/implement.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise1/InventoryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise1/InventoryManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise2/SearchSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise2/SearchSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise3/OrderSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise3/OrderSorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise4/EmployeeSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise4/EmployeeSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise5/TaskList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise5/TaskList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise6/LibrarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise6/LibrarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/Algorithms_DS/exercise7/FinancialForecaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise7/FinancialForecaster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise1/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise1/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise1/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise1/SingletonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise10/MVCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise10/MVCTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise10/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise10/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise10/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise10/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise10/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise10/StudentView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise11/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise11/CustomerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise11/CustomerRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise11/CustomerRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise11/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise11/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise11/DependencyInjectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise11/DependencyInjectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/Document.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/DocumentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/DocumentFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/ExcelDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/ExcelDocument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/ExcelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/ExcelFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/FactoryMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/FactoryMethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/PdfDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/PdfDocument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/PdfFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/PdfFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/WordDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/WordDocument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise2/WordFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise2/WordFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise3/BuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise3/BuilderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise3/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise3/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise4/AdapterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise4/AdapterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise4/PaymentProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise4/PaymentProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise4/StripeAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise4/StripeAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise4/StripeGateway.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise4/StripeGateway.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/DecoratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/DecoratorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/EmailNotifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/EmailNotifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/Notifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/Notifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/NotifierDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/NotifierDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/SMSNotifierDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/SMSNotifierDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise5/SlackNotifierDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise5/SlackNotifierDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise6/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise6/Image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise6/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise6/ProxyImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise6/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise6/ProxyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise6/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise6/RealImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/MobileApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/MobileApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/ObserverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/ObserverTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/Stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/StockMarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/StockMarket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise7/WebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise7/WebApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise8/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise8/CreditCardPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise8/PayPalPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise8/PayPalPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise8/PaymentContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise8/PaymentContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise8/PaymentStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise8/PaymentStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise8/StrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise8/StrategyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/CommandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/CommandTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/LightOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/LightOffCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/LightOnCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WEEK1/design_pattern_exercises/exercise9/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEEK1/DesignPatterns/exercise9/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_1_Configuring a Basic Spring Application/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_1_Configuring a Basic Spring Application/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_1_Configuring a Basic Spring Application/src/main/com/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_1_Configuring a Basic Spring Application/src/main/com/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_1_Configuring a Basic Spring Application/src/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_2_Implementing Dependency Injection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_2_Implementing Dependency Injection/src/main/com/library/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_2_Implementing Dependency Injection/src/main/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_2_Implementing Dependency Injection/src/main/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_2_Implementing Dependency Injection/src/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/src/main/com/library/aspect/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/src/main/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/src/main/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/src/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_4_Creating and Configuring a Maven Project/MavenPlugin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_4_Creating and Configuring a Maven Project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_4_Creating and Configuring a Maven Project/src/main/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_4_Creating and Configuring a Maven Project/src/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_5_Configuring the Spring IoC Container/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_5_Configuring the Spring IoC Container/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_5_Configuring the Spring IoC Container/src/main/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_5_Configuring the Spring IoC Container/src/main/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_5_Configuring the Spring IoC Container/src/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_6_Configuring Beans with Annotations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_6_Configuring Beans with Annotations/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_6_Configuring Beans with Annotations/src/main/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_6_Configuring Beans with Annotations/src/main/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_6_Configuring Beans with Annotations/src/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/src/main/com/library/aspect/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/src/main/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/src/main/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/src/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_8_Implementing Basic AOP with Spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_8_Implementing Basic AOP with Spring/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_8_Implementing Basic AOP with Spring/src/main/com/library/aspect/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_8_Implementing Basic AOP with Spring/src/main/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_8_Implementing Basic AOP with Spring/src/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/main/com/library/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/main/com/library/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/main/com/library/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/main/com/library/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_06_26,_9_49 pm_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_06_26__9_49pm__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,24 +70,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "anupam23ub"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anupam23ub&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/anupam23ub/Cognizant-DN-JAVA-FSE-NAVNEET",
-    "accountId": "f154b53d-a9e1-4fbc-b852-efc9a6f2aab8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/anupam23ub/Cognizant-DN-JAVA-FSE-NAVNEET&quot;,
+    &quot;accountId&quot;: &quot;f154b53d-a9e1-4fbc-b852-efc9a6f2aab8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3FOMvO9EoPkQdQj7lzyPjYfLwzk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -126,14 +111,18 @@
     "Application.TaskList.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/navneet/IdeaProjects/Cognizant-DN-JAVA-FSE-NAVNEET/src/WEEK1",
+    "last_opened_file_path": "/Users/navneet/IdeaProjects/Cognizant-DN-JAVA-FSE-NAVNEET/src/WEEK2",
     "onboarding.tips.debug.path": "/Users/navneet/IdeaProjects/Cognizant-DN-JAVA-FSE-NAVNEET/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/WEEK2" />
       <recent name="$PROJECT_DIR$/src/WEEK1" />
     </key>
   </component>
@@ -192,7 +181,6 @@
     </configuration>
     <configuration name="TaskList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WEEK1.AlgorithmsDS.exercise5.TaskList" />
-      <module name="Cognizant-DN-JAVA-FSE-NAVNEET" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="WEEK1.AlgorithmsDS.exercise5.*" />
@@ -202,6 +190,17 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Cognizant-DN-JAVA-FSE-NAVNEET" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Cognizant-DN-JAVA-FSE-NAVNEET" />
+      <option name="filePath" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
@@ -242,5 +241,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed design and dsa exercises" />
     <option name="LAST_COMMIT_MESSAGE" value="completed design and dsa exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WEEK1/AlgorithmsDS/exercise1/InventoryManagement.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
