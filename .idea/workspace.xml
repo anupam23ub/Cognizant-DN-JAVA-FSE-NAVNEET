@@ -2,56 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="680794fd-850a-4c81-aa66-727cfb9010f7" name="Changes" comment="completed design and dsa exercises">
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_1_Configuring a Basic Spring Application/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_1_Configuring a Basic Spring Application/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_1_Configuring a Basic Spring Application/src/main/com/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_1_Configuring a Basic Spring Application/src/main/com/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_1_Configuring a Basic Spring Application/src/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_2_Implementing Dependency Injection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_2_Implementing Dependency Injection/src/main/com/library/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_2_Implementing Dependency Injection/src/main/com/library/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_2_Implementing Dependency Injection/src/main/com/library/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_2_Implementing Dependency Injection/src/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/src/main/com/library/aspect/LoggingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/src/main/com/library/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/src/main/com/library/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_3_Implementing Logging with Spring AOP/src/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_4_Creating and Configuring a Maven Project/MavenPlugin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_4_Creating and Configuring a Maven Project/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_4_Creating and Configuring a Maven Project/src/main/com/library/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_4_Creating and Configuring a Maven Project/src/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_5_Configuring the Spring IoC Container/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_5_Configuring the Spring IoC Container/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_5_Configuring the Spring IoC Container/src/main/com/library/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_5_Configuring the Spring IoC Container/src/main/com/library/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_5_Configuring the Spring IoC Container/src/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_6_Configuring Beans with Annotations/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_6_Configuring Beans with Annotations/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_6_Configuring Beans with Annotations/src/main/com/library/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_6_Configuring Beans with Annotations/src/main/com/library/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_6_Configuring Beans with Annotations/src/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/src/main/com/library/aspect/LoggingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/src/main/com/library/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/src/main/com/library/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_7_Implementing Constructor and Setter Injection/src/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_8_Implementing Basic AOP with Spring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_8_Implementing Basic AOP with Spring/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_8_Implementing Basic AOP with Spring/src/main/com/library/aspect/LoggingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_8_Implementing Basic AOP with Spring/src/main/com/library/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_8_Implementing Basic AOP with Spring/src/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/main/com/library/LibraryManagementApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/main/com/library/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/main/com/library/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/main/com/library/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/main/com/library/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEEK2/SpringCore &amp; Maven/Exercise_9_Creating a Spring Boot Application/src/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_06_26,_9_49 pm_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21_06_26__9_49pm__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,33 +43,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AdapterTest.executor": "Run",
-    "Application.BuilderTest.executor": "Run",
-    "Application.CommandTest.executor": "Run",
-    "Application.DecoratorTest.executor": "Run",
-    "Application.DependencyInjectionTest.executor": "Run",
-    "Application.FactoryMethodTest.executor": "Run",
-    "Application.FinancialForecaster.executor": "Run",
-    "Application.LibrarySearch.executor": "Run",
-    "Application.MVCTest.executor": "Run",
-    "Application.ObserverTest.executor": "Run",
-    "Application.ProxyTest.executor": "Run",
-    "Application.SingletonTest.executor": "Run",
-    "Application.StrategyTest.executor": "Run",
-    "Application.TaskList.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/navneet/IdeaProjects/Cognizant-DN-JAVA-FSE-NAVNEET/src/WEEK2",
-    "onboarding.tips.debug.path": "/Users/navneet/IdeaProjects/Cognizant-DN-JAVA-FSE-NAVNEET/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdapterTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuilderTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommandTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecoratorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DependencyInjectionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactoryMethodTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinancialForecaster.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibrarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MVCTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObserverTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProxyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrategyTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskList.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/navneet/IdeaProjects/Cognizant-DN-JAVA-FSE-NAVNEET/src/WEEK2&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/navneet/IdeaProjects/Cognizant-DN-JAVA-FSE-NAVNEET/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/WEEK2" />

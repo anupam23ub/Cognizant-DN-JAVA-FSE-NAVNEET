@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="
+           http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/aop
+           http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!-- ===================================================================
+         Exercise 1: Define beans for BookService and BookRepository.
+         Exercise 2 & 5: Wire BookRepository into BookService (setter injection).
+         Exercise 7: Demonstrate BOTH constructor and setter injection.
+         =================================================================== -->
+
+    <bean id="bookRepository" class="com.library.repository.BookRepository"/>
+
+    <bean id="bookService" class="com.library.service.BookService">
+        <!-- Exercise 7: Constructor injection -->
+        <constructor-arg ref="bookRepository"/>
+        <!-- Exercise 2/5/7: Setter injection (property name = bookRepository) -->
+        <property name="bookRepository" ref="bookRepository"/>
+    </bean>
+
+    <!-- ===================================================================
+         Exercise 3 & 8: Enable AspectJ auto-proxying and register the aspect.
+         =================================================================== -->
+    <aop:aspectj-autoproxy/>
+    <bean id="loggingAspect" class="com.library.aspect.LoggingAspect"/>
+
+</beans>
