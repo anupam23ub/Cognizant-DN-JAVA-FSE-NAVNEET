@@ -18,10 +18,8 @@ The focus is on building a strong foundation in **Java backend development, Spri
 ```text
 Cognizant-DN-JAVA-FSE-NAVNEET/
 │
-├── src/
-│   ├── WEEK1/
-│   └── WEEK2/
-│
+├── WEEK1/
+├── WEEK2/
 └── README.md
 ```
 
